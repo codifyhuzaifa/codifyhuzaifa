@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 🎓 **Computer Engineering Student @ Air University, Islamabad**  
 💻 Passionate about **coding, building projects, and learning new programming languages**  
-🚀 Exploring **C++, web development, and problem-solving**  
+🚀 Exploring **C++, Web development, and problem-solving**  
 
 ---
 
